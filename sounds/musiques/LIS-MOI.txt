@@ -1,0 +1,2 @@
+Place ici tes fichiers .mp3 pour la catégorie "Musiques".
+Exemple attendu par script.js : heroique.mp3, melancolique.mp3, mystere.mp3

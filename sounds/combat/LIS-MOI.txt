@@ -1,0 +1,2 @@
+Place ici tes fichiers .mp3 pour la catégorie "Combat".
+Exemple attendu par script.js : epee.mp3, tension.mp3, explosion.mp3, victoire.mp3

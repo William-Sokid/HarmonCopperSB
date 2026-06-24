@@ -1,0 +1,2 @@
+Place ici tes fichiers .mp3 pour la catégorie "Ambiances".
+Exemple attendu par script.js : foret.mp3, taverne.mp3, pluie.mp3, grotte.mp3

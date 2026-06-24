@@ -1,0 +1,2 @@
+Place ici tes fichiers .mp3 pour la catégorie "SFX".
+Exemple attendu par script.js : porte.mp3, pieces.mp3, tonnerre.mp3
