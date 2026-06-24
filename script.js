@@ -18,7 +18,7 @@ const SOUNDS = [
       { nom: "Bad ass crew",      fichier: "ambiances/badass.mp3" },
       { nom: "Town",    fichier: "ambiances/ville1.mp3" },
       { nom: "Horror",      fichier: "ambiances/horror.mp3" },
-      { nom: "Nostalgique",     fichier: "ambiances/Nostalgique.mp3" },
+      { nom: "Nostalgique",     fichier: "ambiances/Nostalgique.mp3" }
     ]
   },
   {
@@ -27,20 +27,19 @@ const SOUNDS = [
       { nom: "Accord mineure",       fichier: "combat/Am.mp3" },
       { nom: "Accord majeure",    fichier: "combat/AMa.mp3" },
       { nom: "Mélodie du courage",  fichier: "combat/MDC.mp3" },
-      { nom: "Fail",   fichier: "combat/Fail.mp3" },
-      { nom: "Victory",   fichier: "combat/Victory.mp3" },
-
+      { nom: "Fail",   fichier: "combat/fail.mp3" },
+      { nom: "Victory",   fichier: "combat/Victory.mp3" }
     ]
   },
   {
     nom: "Musiques",
     sons: [
       { nom: "Epic",  fichier: "musiques/Epicshit.mp3" },
-      { nom: "Mélancolique",    fichier: "musiques/Itiswhatitis.mp3" }, 
+      { nom: "Mélancolique",    fichier: "musiques/Itiswhatisit.mp3" },
+      { nom: "Mystère",         fichier: "musiques/mystery.mp3" },
       { nom: "Road to death",         fichier: "musiques/Roadtodeath.mp3" },
       { nom: "Starway to sadness",         fichier: "musiques/Starwaytosadness.mp3" },
-      { nom: "Mystère",         fichier: "musiques/mystery.mp3" },
-
+      { nom: "Serious business",         fichier: "musiques/Seriousbusiness.mp3" }
 
     ]
   },
@@ -48,7 +47,8 @@ const SOUNDS = [
     nom: "SFX",
     sons: [
       { nom: "Gun", fichier: "sfx/Gun.mp3" },
-      
+      { nom: "Pièces d'or",      fichier: "sfx/pieces.mp3" },
+      { nom: "Coup de tonnerre", fichier: "sfx/tonnerre.mp3" }
     ]
   }
 ];
