@@ -35,9 +35,8 @@ const SOUNDS = [
   {
     nom: "Musiques",
     sons: [
-      { nom: "Epic",  fichier: "musiques/EpicShit.mp3" },
+      { nom: "Epic",  fichier: "musiques/Epicshit.mp3" },
       { nom: "Mélancolique",    fichier: "musiques/Itiswhatisit.mp3" },
-      { nom: "Mystère",         fichier: "musiques/mystery.mp3" },
       { nom: "Road to death",         fichier: "musiques/Roadtodeath.mp3" },
       { nom: "Starway to sadness",         fichier: "musiques/Starwaytosadness.mp3" },
       { nom: "Mystère",         fichier: "musiques/mystery.mp3" },
@@ -48,7 +47,7 @@ const SOUNDS = [
   {
     nom: "SFX",
     sons: [
-      { nom: "Gun", fichier: "sfx/gun.mp3" },
+      { nom: "Gun", fichier: "sfx/Gun.mp3" },
       
     ]
   }
