@@ -27,7 +27,7 @@ const SOUNDS = [
       { nom: "Accord mineure",       fichier: "combat/Am.mp3" },
       { nom: "Accord majeure",    fichier: "combat/AMa.mp3" },
       { nom: "Mélodie du courage",  fichier: "combat/MDC.mp3" },
-      { nom: "Fail",   fichier: "combat/fail.mp3" },
+      { nom: "Fail",   fichier: "combat/Fail.mp3" },
       { nom: "Victory",   fichier: "combat/Victory.mp3" }
     ]
   },
@@ -35,7 +35,7 @@ const SOUNDS = [
     nom: "Musiques",
     sons: [
       { nom: "Epic",  fichier: "musiques/Epicshit.mp3" },
-      { nom: "Mélancolique",    fichier: "musiques/Itiswhatisit.mp3" },
+      { nom: "Mélancolique",    fichier: "musiques/Itiswhatitis.mp3" },
       { nom: "Mystère",         fichier: "musiques/mystery.mp3" },
       { nom: "Road to death",         fichier: "musiques/Roadtodeath.mp3" },
       { nom: "Starway to sadness",         fichier: "musiques/Starwaytosadness.mp3" },
